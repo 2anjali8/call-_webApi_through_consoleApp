@@ -1,0 +1,15 @@
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\bin\Debug\net7.0\ClientApp.exe
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\bin\Debug\net7.0\ClientApp.deps.json
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\bin\Debug\net7.0\ClientApp.runtimeconfig.json
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\bin\Debug\net7.0\ClientApp.dll
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\bin\Debug\net7.0\ClientApp.pdb
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\obj\Debug\net7.0\ClientApp.csproj.AssemblyReference.cache
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\obj\Debug\net7.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\obj\Debug\net7.0\ClientApp.AssemblyInfoInputs.cache
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\obj\Debug\net7.0\ClientApp.AssemblyInfo.cs
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\obj\Debug\net7.0\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\obj\Debug\net7.0\ClientApp.dll
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\obj\Debug\net7.0\refint\ClientApp.dll
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\obj\Debug\net7.0\ClientApp.pdb
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\obj\Debug\net7.0\ClientApp.genruntimeconfig.cache
+C:\Users\ANJALI HINGU\source\repos\ClientApp\ClientApp\obj\Debug\net7.0\ref\ClientApp.dll
